@@ -29,3 +29,10 @@ button {
   height: 300px;
   margin-bottom: 10px;
 }
+
+.div-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
